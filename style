@@ -1,0 +1,22 @@
+header {
+	font-family:"display";
+	font-size:50px
+}
+p {font-family:"serif"
+}
+h1 {
+	font-family:"display";
+	font-size:30px
+}
+h2 {
+	font-family:"display";
+	font-size:30px
+}
+body {font-family:"book antiqua"
+
+}
+img {
+	width:250px;
+	height:250px;
+	border-radius:50%
+}
